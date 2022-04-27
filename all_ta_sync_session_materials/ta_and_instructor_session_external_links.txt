@@ -1,0 +1,12 @@
+Folks, 
+Following up on the session this week ... 
+While you may or may not be a not a fan of recent changes in Microsoft Azure, the ML suite there is fairly comprehensive. On the question of how to select the algorithm that best suits your purpose, the following is a good read.   
+https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms (Links to an external site.)
+The cheat sheet referred to is also a nice summary. 
+https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=docs-article-lazzeri (Links to an external site.)
+Deep learning was an ad-hoc set of tools till its 'fathers' LeCun, Bengio, and Hinton codified what it is. This is an early review paper. Perhaps not the easiest reading, but it was immensely influential. 
+https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf (Links to an external site.)
+Of course, there is the resulting book as well. 
+https://www.deeplearningbook.org/ (Links to an external site.)
+Happy reading! 
+Abhinanda. 
