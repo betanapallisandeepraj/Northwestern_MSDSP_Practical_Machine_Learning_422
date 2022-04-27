@@ -1,0 +1,29 @@
+Useful Links:
+-------------
+
+Learning Python:
+https://campus.datacamp.com/courses/intro-to-python-for-data-science/
+https://campus.datacamp.com/courses/intermediate-python-for-data-science/
+
+Jupyter Notebook:
+https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46
+
+Colab:
+https://github.com/savankoradiya/Google-Colab-Tutorial
+
+
+SciKit-Learn Tutorial:
+https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+https://www.datacamp.com/community/tutorials/machine-learning-python?utm_source=adwords_ppc&utm_campaignid=1565261270&utm_adgroupid=67750485268&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=295208661514&utm_targetid=aud-748597547652:dsa-473406584395&utm_loc_interest_ms=&utm_loc_physical_ms=9021712&gclid=Cj0KCQiAjfvwBRCkARIsAIqSWlMvEO4DOpIiqp0PtixDvx3-enVJJ1NUQ0q9_KuqMfU1dRWggYdMoFgaAkCJEALw_wcB
+
+
+TensorFlow:
+https://www.tensorflow.org/tutorials/quickstart/beginner
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+
+Keras:
+https://cv-tricks.com/tensorflow-tutorial/keras/
+https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/
+
+ML:
+https://developers.google.com/machine-learning/crash-course/ml-intro
